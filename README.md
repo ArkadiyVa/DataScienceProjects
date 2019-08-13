@@ -1,7 +1,7 @@
 # DataScienceProjects
-link on CareerVillageEDA: https://nbviewer.jupyter.org/github/ArkadiyVa/DataScienceProjects/blob/master/CareerVillageEDA/EDA_final.ipynb
-
 link on AirQuality: https://nbviewer.jupyter.org/github/ArkadiyVa/DataScienceProjects/blob/master/AirQuality/AirQuality.ipynb
+
+link on CareerVillageEDA: https://nbviewer.jupyter.org/github/ArkadiyVa/DataScienceProjects/blob/master/CareerVillageEDA/EDA_final.ipynb
 
 link on MovieReviewDataset: https://nbviewer.jupyter.org/github/ArkadiyVa/DataScienceProjects/blob/master/MovieReviewDataset/MovieReviewDataset.ipynb
 
