@@ -1,4 +1,4 @@
-class AdaBoost():
+class AdaBoostClassifier():
     def __init__(self, iters=10, learning_rate=1):
         self.learning_rate = learning_rate
         self.iters = iters
