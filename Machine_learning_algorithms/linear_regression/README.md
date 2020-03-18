@@ -1,1 +1,1 @@
-
+![Alt text](https://raw.githubusercontent.com/ArkadiyVa/DataScienceProjects/master/Machine_learning_algorithms/linear_regression/images/linear_regression.png)
